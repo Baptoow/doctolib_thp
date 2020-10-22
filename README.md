@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+devoir THP 
+base de données :
+docteurs
+patients
+villes
+rdv
 
-Things you may want to cover:
 
-* Ruby version
+BDD non finit 
+villes ajouter mais mal linkés 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+auteur @Baptiste barbera
