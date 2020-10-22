@@ -9,6 +9,6 @@ rdv
 
 
 BDD non finit 
-villes ajouter mais mal linkés 
+villes ajouté mais mal linkés
 
 auteur @Baptiste barbera
